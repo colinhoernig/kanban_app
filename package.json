@@ -1,0 +1,19 @@
+{
+  "name": "kanban_app",
+  "version": "0.1.0",
+  "description": "Kanban app in React/Flux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colinhoernig/kanban_app.git"
+  },
+  "author": "Colin Hoernig",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/colinhoernig/kanban_app/issues"
+  },
+  "homepage": "https://github.com/colinhoernig/kanban_app#readme"
+}
